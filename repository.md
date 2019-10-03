@@ -13,7 +13,7 @@
 *	 <a href="#clone">Status</a> 
 *	<a href="#clone">Master Branch </a> 
 
-
+___________________________________________________________________________________________________________________________________
 </br>
 </br>
 </br>
@@ -31,10 +31,10 @@ project, building a history over time.
 ![](git_repos_image_source.png)
 
 
-Start a new git repository using the command line:
+To start a new git repository using the command line:
 1.	Create a directory to contain the project.
 2.	Go into the new directory.
-3.	Type git init .  [To initialize the directory and creates a new Git repository]
+3.	Type git init .  -->To initialize the directory and creates a new Git repository
 4.	Write some code.
 5.	Type git add to add the files.
 6.	Type git commit .
@@ -52,6 +52,8 @@ The git clone command copies an existing Git repository. This is sort of like SV
 The "clone" command downloads an existing Git repository [remote] to your local computer.
 You will then have a full-blown, local version of that Git repo and can start working on the project.
 Typically, the "original" repository is located on a remote server, often from a service like GitHub, Bitbucket, or GitLab). That remote repository's URL is then later referred to as the "origin".
+
+![](clone_image.png)
 
 Example: <br>
 Thie following command will download the project to a folder named after the Git repository ("Mini_Project_1" in this case) <br>
