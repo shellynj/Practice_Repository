@@ -22,9 +22,13 @@
 <a name="repository">
 <b>Repository</b>
 
-Git is a program that tracks changes made to files. Once installed, Git can be initialized on a project to create a Git repository. 
-A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time.
+Generically refers to a central place where data is stored and maintained. A repository can be a place where multiple databases or files are located for distribution over a network, or a repository can be a location that is directly accessible to the user without having to travel across a network. 
 
+Git is a program that tracks changes made to files. Once installed, Git can be initialized on a project to create a Git
+repository. A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your
+project, building a history over time.
+
+![](git_repos_image_source.png)
 
 
 Start a new git repository using the command line:
