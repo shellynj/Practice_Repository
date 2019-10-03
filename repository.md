@@ -57,7 +57,7 @@ Repository Owner USERNAME: Web_Dev_IS601   <br>
 GITHUB REPOSITORY PROJECT: Mini_Project_1 <br>
 cd folder/to/clone-into/        ---> Change to the folder on your local directory that will contain the cloned repository <br>
 Clone Command**: <br>
-<b>git clone </b> https://github.com/Web_Dev_IS601/Mini_Project_1.git   <br><br>
+<b>git clone </b>[https://github.com/Web_Dev_IS601/Mini_Project_1.git]  <br><br>
 **SSH/HTTPS URL FORMAT :   git@name-of-git-host:username/project-name (SSH version) or [https://name-of-git-host/username/project-name] (HTTPS version).
 
 
