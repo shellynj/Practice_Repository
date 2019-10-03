@@ -7,9 +7,7 @@ GitFlow is a branching model for Git, created by Vincent Driessen. “One of the
 In order to switch from one task to another you must first commit your changes and then create a new feature branch for the new task. When your new task is complete checkout the original feature branch you were working on and then continue working where you left off.
 
 <br><br>
-
-
-See the above image:
+![](gitflow.png)
 *	Master: Stable, direct to production.
 *	Develop: Unstable, all feature changes will be pushed here.
 *	Feature: Check out from Develop branch, and push changes back to it.
