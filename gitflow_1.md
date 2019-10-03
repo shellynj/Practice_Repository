@@ -2,14 +2,14 @@
 
 
 
-GitFlow is a branching model for Git, created by Vincent Driessen. “One of the great things about GitFlow is that it makes parallel development very easy, by isolating new development from finished work. New development (such as features and non-emergency bug fixes) is done in feature branches, and is only merged back into main body of code when the developer(s) is happy that the code is ready for release.”
-https://datasift.github.io/gitflow/IntroducingGitFlow.html
+GitFlow is a branching model for Git, created by Vincent Driessen. “One of the great things about GitFlow is that it makes parallel development very easy, by isolating new development from finished work. New development (such as features and non-emergency bug fixes) is done in feature branches, and is only merged back into main body of code when the developer(s) is happy that the code is ready for release.”<sup>1</sup>
+
 In order to switch from one task to another you must first commit your changes and then create a new feature branch for the new task. When your new task is complete checkout the original feature branch you were working on and then continue working where you left off.
 
 <br><br>
 
 
-See above image:
+See the above image:
 *	Master: Stable, direct to production.
 *	Develop: Unstable, all feature changes will be pushed here.
 *	Feature: Check out from Develop branch, and push changes back to it.
@@ -27,3 +27,6 @@ v0.1,v0.2 and v1.0 in the image, represent the version numbers in the master bra
 Once development is complete, the release branch gets merged into master and tagged with a version number. In addition, it should be merged back into develop, which may have progressed since the release was initiated
 
 Maintenance or “hotfix” branches are used to quickly patch production releases. Hotfix branches are a lot like release branches and feature branches except they're based on master instead of develop. This is the only branch that should fork directly off of master. As soon as the fix is complete, it should be merged into both master and develop (or the current release branch), and master should be tagged with an updated version number.
+
+____________________________________________________________
+<sup>1</sup>https://datasift.github.io/gitflow/IntroducingGitFlow.html
