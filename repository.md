@@ -24,7 +24,7 @@ Git is a program that tracks changes made to files. Once installed, Git can be i
 repository. A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your
 project, building a history over time.
 
-![](git_repos_image_source.png)
+![](image/git_repos_image_source.png)
 
 
 To start a new git repository using the command line:
@@ -49,7 +49,7 @@ The "clone" command downloads an existing Git repository [remote] to your local 
 You will then have a full-blown, local version of that Git repo and can start working on the project.
 Typically, the "original" repository is located on a remote server, often from a service like GitHub, Bitbucket, or GitLab). That remote repository's URL is then later referred to as the "origin".
 
-![](clone_image.png)
+![](image/clone_image.png)
 
 Example: <br>
 Thie following command will download the project to a folder named after the Git repository ("Mini_Project_1" in this case) <br>
