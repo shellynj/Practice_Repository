@@ -12,7 +12,7 @@ Each group must include an explaination of how the usage of Git, Docker, automat
 #### Index:
 * [Git, Docker, Automated Testing and Continuous Integration: Improve the Productivity and Competitivenes of Companies](/automated.md)
 * Vi : Create and Edit Files 
-* Basic Commands to Manage a File System[Basic Commands to Manage a File System](/commands.md)
+* [Basic Commands to Manage a File System](/commands.md)
 * [The gitFlow Workflow](/gitflow_1.md)
 * [Git Commands and Terminology](/repository.md)
 * <a href="#changelog">Changelog</a> 
