@@ -15,5 +15,8 @@ Each group must include an explaination of how the usage of Git, Docker, automat
 * Basic Commands to Manage a File System
 * [The gitFlow Workflow](/gitflow_1.md)
 * [Git Commands and Terminology](/repository.md)
-* Changelog
+* <a href="#changelog">Changelog</a> 
 * Sources, Tutorials and Additional Readings 
+
+
+#### Change Log:
