@@ -7,11 +7,11 @@
 
 
 #### Index:
-* [Git, Docker, Automated Testing and Continuous Integration: Improve the Productivity and Competitivenes of Companies](/repository.md)
+* [Git, Docker, Automated Testing and Continuous Integration: Improve the Productivity and Competitivenes of Companies](/automated.md)
 
 * Vi : Create and Edit Files 
-* Basic Commands to Manage a File Systems
-* The gitFlow Workflow 
-* Git Commands and Terminology 
+* Basic Commands to Manage a File System
+* The gitFlow Workflow [The gitFlow Workflow](/gitflow_1.md)
+* [Git Commands and Terminology](/repository.md)
 * Changelog
 * Sources, Tutorials and Additional Readings 
