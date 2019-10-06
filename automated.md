@@ -1,5 +1,5 @@
 
-![](gitflow.png)
+![](header.png)
 
 Effective and efficient automated software testing is crucial to helping organizations deliver better software, faster. Manual testing in comparison, where a human being is responsible for testing the functionality of the software in the way a user would, requires more time in exploratory tests. Although manual testing “allows a human mind to draw insights from a test that might otherwise be missed by an automated testing program”, automated testing is well-suited for large projects; projects that require testing the same areas over and over; and projects that have already been through an initial manual testing process. 
 
