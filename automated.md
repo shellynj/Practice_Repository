@@ -17,3 +17,5 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, Docker, automated testing and continuous integration are tools and methods that can improve the productivity and competitiveness of a company by offering processes that increase the speed of development while ensuring the quality of the code, thus making a company more productive and competitive.
 
+![](explantion_header.png)
+
