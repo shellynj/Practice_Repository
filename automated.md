@@ -16,6 +16,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker is a software platform for building applications based on containers.  Containers offer a way to speed application delivery and increase application portability, by allowing developers to isolate code to a single self-contained function, which makes it easier to modify and update the code. Containerization of software, a facet of Docker, allows improvements in the continuous delivery process.  Continuous delivery, an extension of continuous integration, happens when your software is deployable at any time, when you can easily push any version of your software on demand to any environment, and when you or anybody else in the development team can get immediate, automated feedback on the impact of changes to the software from a production readiness standpoint. The biggest improvements are in speed and in the level of abstraction which are essential for further innovations in this field. Thus, reducing the time of the overall development process.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, Docker, automated testing and continuous integration are tools and methods that can improve the productivity and competitiveness of a company by offering processes that increase the speed of development while ensuring the quality of the code, thus making a company more productive and competitive.
+</br></br>
+#### Additional Reading: </br>
+* https://smartbear.com/learn/automated-testing/what-is-automated-testing/</br>
+* https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment</br>
+* https://techbeacon.com/devops/4-myths-about-containers-continuous-delivery-it-doesnt-get-easier</br>
+* https://www.infoworld.com/article/3204171/what-is-docker-the-spark-for-the-container-revolution.html</br>
+</br>
 
 ![](explantion_header.png)
 
