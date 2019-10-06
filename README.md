@@ -18,5 +18,5 @@ Each group must include an explaination of how the usage of Git, Docker, automat
 * <a href="#changelog">Changelog</a> 
 * Sources, Tutorials and Additional Readings 
 
-
+<a name="changelog">
 #### Change Log:
