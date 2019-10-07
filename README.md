@@ -68,3 +68,10 @@ Each group must include an explanation of how the usage of Git, Docker, automate
 - 9/26/2019 Mykola upak created and uploaded image 
 - 9/26/2019 Mykola Lupak added information to readme file
 - 9/26/2019 Mykola Lupak created new repository
+
+
+
+**Image**
+Mini Project Image.
+
+![NJIT](image/1.PNG)
