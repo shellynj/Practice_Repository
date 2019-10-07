@@ -17,7 +17,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, Docker, automated testing and continuous integration are tools and methods that can improve the productivity and competitiveness of a company by offering processes that increase the speed of development while ensuring the quality of the code, thus making a company more productive and competitive.
 </br></br>
-#### Additional Reading: </br>
+#### Additional Readings: </br>
 * https://smartbear.com/learn/automated-testing/what-is-automated-testing/</br>
 * https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment</br>
 * https://techbeacon.com/devops/4-myths-about-containers-continuous-delivery-it-doesnt-get-easier</br>
