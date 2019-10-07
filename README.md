@@ -1,5 +1,4 @@
 
-
 ### New Jersey Institute of Technology
 ### IS601 - 851
 ### NJIT-1st-MiniProject
