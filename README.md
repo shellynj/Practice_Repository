@@ -20,6 +20,7 @@ Each group must include an explanation of how the usage of Git, Docker, automate
 #### Contributions:
 - **Basic commands to manage a file system - Mykola Lupak**
 - **The usage of Vi to create and edit files on Linux  - Mykola Lupak**
+- **Readme File - Mykola Lupak**
 - **Sources, Tutorials and Additional Readings - Mykola Lupak & Michelle Boykins**
 - **The gitFlow Workflow  - Michelle Boykins**
 - **Git Commands - Michelle Boykins**
