@@ -17,7 +17,7 @@ Each group must include an explanation of how the usage of Git, Docker, automate
 * [Sources, Tutorials and Additional Readings](/sources.md)
 * <a href="#changelog">Changelog</a> 
  
-  Contributions:
+#### Contributions:
 - **Basic commands to manage a file system - Mykola Lupak**
 - **The usage of Vi to create and edit files on Linux  - Mykola Lupak**
 - **Sources, Tutorials and Additional Readings - Mykola Lupak & Michelle Boykins**
