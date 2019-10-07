@@ -14,23 +14,24 @@ Each group must include an explanation of how the usage of Git, Docker, automate
 * [Vi and Basic Commands to Manage a File System](/commands.md)
 * [The gitFlow Workflow](/gitflow_1.md)
 * [Git Commands and Terminology](/repository.md)
-* [Sources, Tutorials and Additional Readings]Sources, Tutorials and Additional Readings (/sources.md)
+* [Sources, Tutorials and Additional Readings](/sources.md)
 * <a href="#changelog">Changelog</a> 
  
   Contributions:
-- **Basic commands to manage a file system - Mykola Lupak
-- **The usage of Vi to create and edit files on Linux  - Mykola Lupak
-- **Sources, Tutorials and Additional Readings - Mykola Lupak & Michelle Boykins
-- **The gitFlow Workflow  - Michelle Boykins
-- **Git Commands - Michelle Boykins
-- **Git, Docker, Automated Testing and Continuous Integration: Improve the Productivity and Competitivenes of Companies- Michelle Boykins
+- **Basic commands to manage a file system - Mykola Lupak**
+- **The usage of Vi to create and edit files on Linux  - Mykola Lupak**
+- **Sources, Tutorials and Additional Readings - Mykola Lupak & Michelle Boykins**
+- **The gitFlow Workflow  - Michelle Boykins**
+- **Git Commands - Michelle Boykins**
+- **Git, Docker, Automated Testing and Continuous Integration: Improve the Productivity and Competitivenes of Companies- Michelle Boykins**
 
 
 
-<a name="changelog">  
+
+
+<a name="changelog">
+ 
 #### Change Log:
-**Changelog**
-  
 - 10/7/2019 Michelle comitted and added sources file. 
 - 10/7/2019 Michelle comitted and added sources file. 
 - 10/6/2019 Michelle updated readme changelog.
