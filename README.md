@@ -74,3 +74,11 @@ Each group must include an explanation of how the usage of Git, Docker, automate
 Mini Project Image.
 
 ![NJIT](image/1.PNG)
+
+
+|  Date  | Details  |  
+|---|---|
+|  10/9/2019  | Michelle made revisions to Readme file  |  
+|  10/8/2019  | Michelle updated content and made edits on usage_git_docker_auto_cont.md file|  
+|  10/8/2019  | Michelle updated content and made edits on Repository.md file|
+
